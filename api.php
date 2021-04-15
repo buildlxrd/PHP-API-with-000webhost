@@ -2,7 +2,7 @@
 // Optional Name
 // https://stackoverflow.com/questions/4064444/returning-json-from-a-php-script
 
-header('Content-type: application/json');
+// header('Content-type: application/json');
 
 if ($_SERVER['REQUEST_METHOD'] === 'GET') {
     $me = [ 'order_ID' => 301684,
