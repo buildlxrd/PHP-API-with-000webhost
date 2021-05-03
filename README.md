@@ -16,12 +16,14 @@ Let's build one!
 
 ### Steps
 1. Register for a 000webhost Account [here](https://ph.000webhost.com/free-website-sign-up).
+
 -- Go to 000webhost.com and then scroll down.
 -- Click the "FREE SIGN UP" button.
 -- Create your account credentials.
 -- Click the "SIGN UP" button.
 -- Verify your email.
 2. Create the Website
+
 -- After verifying your email, you will be redirected to a webpage. Click the "GET STARTED" button.
 -- When asked, "What would you like to do?" select, "Other".
 -- Enter the name of your website and then click the "SUBMIT" button.
@@ -29,6 +31,7 @@ Let's build one!
 -- Create a file named "index.php" under the "public_html" file.
 -- Double click the file you created and then paste the code from [https://github.com/m8eee/PHP-API-with-000webhost/blob/main/index.php](https://github.com/m8eee/PHP-API-with-000webhost/blob/main/index.php) there.
 3. Opening the API
+
 -- Go to your website list.
 -- Open the link under the "Upgrade" button.
 
@@ -44,6 +47,7 @@ The following steps assume that you already have a 000webhost account.
 
 1. Make a Facebook Page
 2. Create an API Endpoint for the Chatbot
+
 -- Log into your 000webhost account.
 -- Hover your cursor over the website.
 -- Click "Manage Website".
@@ -56,6 +60,7 @@ The following steps assume that you already have a 000webhost account.
 -- Go back to the file manager and click the "View Site" button.
 -- Add "/index.php" to the end of the link to access the website.
 3. Make the Facebook Application
+
 -- Create a developer account in https://developers.facebook.com/.
 -- Log into the said account.
 -- Click "My Apps".
@@ -68,6 +73,7 @@ The following steps assume that you already have a 000webhost account.
 -- After you do that, a small tab will be shown on your screen. Press the "Continue button". Then, click on the Facebook Page you created. Once you do that, click "Next" and then "Done".
 -- Once you added your Facebook page, click "Generate Token". On the screen that shows up, tick the "I Understand" box and copy the token. Then, click "Done".
 4. Connect Your Facebook Application to the API
+
 -- Log into your 000webhost account.
 -- Hover your cursor over the website.
 -- Click "Manage Website".
