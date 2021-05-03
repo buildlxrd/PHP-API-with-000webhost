@@ -54,10 +54,10 @@ The following steps assume that you already have a 000webhost account.
 - Click "File Manager".
 - Click "Upload Files".
 - Open the "public_html" folder.
-- Create a new file called "index.php".
+- Create a new file called "api.php".
 - Paste the code from [https://github.com/m8eee/PHP-API-with-000webhost/blob/main/api.php](https://github.com/m8eee/PHP-API-with-000webhost/blob/main/api.php) into the file.
 - Go back to the file manager and click the "View Site" button.
-- Add "/index.php" to the end of the link to access the website.
+- Add "/api.php" to the end of the link to access the website.
 3. Make the Facebook Application
 
 - Create a developer account in https://developers.facebook.com/.
@@ -80,10 +80,10 @@ The following steps assume that you already have a 000webhost account.
 - Click "File Manager".
 - Click "Upload Files".
 - Open the "public_html" folder.
-- Double click on the "index.php" file.
+- Double click on the "api.php" file.
 - Replace "YOUR_BOT_TOKEN_HERE" with the token that you copied in step 3.
 - Go to the application you made in https://developers.facebook.com/ and click "Add Callback URL" in the Messenger product.
-- Doing that will show a screen that asks for a callback URL and a verify token. For the callback URL, put in the website you made but add "/index.php" at the end.
+- Doing that will show a screen that asks for a callback URL and a verify token. For the callback URL, put in the website you made but add "/api.php" at the end.
 - For the verify token, write "YOUR_VERIFY_TOKEN".
 - After adding a callback URL, click "Add Subscriptions". Tick the box that has the "Messages" label. Finally, click "Save".
 - Send a message to the Facebook page you made in Step 1. You should get a message that says, "Hello, customer! May I take your order?"
